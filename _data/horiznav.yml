@@ -1,29 +1,29 @@
-- title: "illustration"
-  href: "/illustration/"
+- title: "Illustration"
+  href: "/Illustration/"
 
-- title: "covers"
-  href: "/covers/"
+- title: "animation"
+  href: "/animation/"
   
-- title: "documentation"
+- title: "projects"
   subcategories:
-    - subtitle: "installation"
-      subhref: "/documentation/installation/"
-    - subtitle: "sidebar"
-      subhref: "/documentation/sidebar/"
-    - subtitle: "layouts"
-      subhref: "/documentation/layouts/"
-    - subtitle: "navigation"
-      subhref: "/documentation/navigation/"
-    - subtitle: "social-icons"
-      subhref: "/documentation/social-icons/"
-    - subtitle: "header-image"
-      subhref: "/documentation/header-image/"
-    - subtitle: "lightbox"
-      subhref: "/documentation/lightbox/"
-    - subtitle: "seo"
-      subhref: "/documentation/seo/"
-    - subtitle: "sass"
-      subhref: "/documentation/sass/"
+    - subtitle: "acting"
+      subhref: "/projects/acting/"
+
+    - subtitle: "digital-art"
+      subhref: "/projects/digital-art/"
+
+    - subtitle: "music"
+      subhref: "/projects/music/"
+
+    - subtitle: "puppetry"
+      subhref: "/projects/puppetry/"
+
+    - subtitle: "sewing"
+      subhref: "/projects/sewing/"
+
+    - subtitle: "writing"
+      subhref: "/projects/writing/"
+   
 
 - title: "blog"
   href: "/blog/"

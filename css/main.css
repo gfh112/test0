@@ -167,7 +167,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
 
 .navbar {
   height: 0px;
-  background-color: #DAF7A6; }
+  background-color: #8a8eb9; }
 
 #nav .primary-nav {
   z-index: 2;
@@ -237,7 +237,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   top: 0px;
   left: -9999px;
   opacity: 0;
-  background: #DAF7A6;
+  background: #8a8eb9;
   cursor: pointer;
   border-bottom-left-radius: 3px;
   border-bottom-right-radius: 3px;
@@ -336,7 +336,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   margin-left: 100%;
   margin-top: -20%;
   opacity: 0;
-  background: ##DAF7A6;
+  background: #8a8eb9;
   cursor: pointer;
   border-bottom-left-radius: 3px;
   border-bottom-right-radius: 3px;
@@ -557,7 +557,7 @@ a {
   color: #494d7a;
   text-decoration: none; }
   a:visited {
-    color: ##DAF7A6; }
+    color: #8a8eb9; }
   a:hover {
     color: #6a6fa6; }
 
@@ -668,7 +668,7 @@ input[type="submit"] {
   padding: 0.85em 1em;
   margin: 1rem 0;
   font-size: 0.9rem;
-  background-color: ##DAF7A6;
+  background-color: #6f77c2;
   color: #fff; }
 
 .button:hover, .button:focus, button:hover, button:focus {

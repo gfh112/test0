@@ -1,0 +1,67 @@
+---
+name: "animation"
+arts:
+# Row 1
+- image: "images/galleries/animation/monsta_laurels.png"
+  order: "0" 
+  artist: "Charlie Bunt"
+  title: "MONSTA 2022"
+  description:  <iframe width="560" height="315" src="https://www.youtube.com/embed/bmBwu_gEIRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- image: "images/galleries/animation/ocean.png"
+  order: "1" 
+  artist: "Charlie Bunt"
+  title: "The Sea, first animation"
+  description:  <iframe width="560" height="315" src="https://www.youtube.com/embed/eVHbRy_v7LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ 
+# Row 2
+- image: "images/galleries/animation/fairytales.jpg" 
+  order: "2"
+  artist: "Charlie Bunt"
+  title: "Fairytales From Around The World- theme song Toybox Puppet Theatre"
+  description: <iframe width="560" height="315" src="https://www.youtube.com/embed/uxDBThME2M8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+- image: "images/galleries/animation/bats.png"
+  order: "3"
+  artist: "Charlie Bunt"
+  title: "Save the bats - volunteered to create video for save the bats campaign"
+  description: <iframe width="560" height="315" src="https://www.youtube.com/embed/NIyTv7BGA3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Row 3
+- image: "images/galleries/animation/tiredeyes.png"
+  order: "4"
+  artist: "Charlie Bunt"
+  title: "Tired Eyes - with permission from singer/songwriter Lindsay Philips"
+  description: <iframe width="560" height="315" src="https://www.youtube.com/embed/qlYazZ6M7c8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+- image: "images/galleries/animation/mango.png"
+  order: "5"
+  artist: "Charlie Bunt"
+  title: "Mango Madness - with permission from singer/songwriter Minko/ From band"
+  description: <iframe width="560" height="315" src="https://www.youtube.com/embed/nVkSvKuRTP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# Row 4
+- image: "images/galleries/animation/wombat.png"
+  order: "6"
+  artist: "Charlie Bunt"
+  title: "The Wombat Hole That Swallowed The Moon! Part of Lotty Roo series"
+  description: <iframe width="560" height="315" src="https://www.youtube.com/embed/EHvp0TGQIlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+- image: "images/galleries/animation/zeebo.png"
+  order: "7"
+  artist: "Charlie Bunt"
+  title: "Sit Down Song- part of Lotty Roo series"
+  description: <iframe width="560" height="315" src="https://www.youtube.com/embed/2nbfp54Xb1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- image: "images/galleries/animation/tribute.png"
+  order: "8"
+  artist: "Charlie Bunt"
+  title: "Evil Dead Tribute - Tom Sullivan ED artist gave signed prints for my efforts"
+  description: <iframe width="560" height="315" src="https://www.youtube.com/embed/k2HzRVIJPAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---

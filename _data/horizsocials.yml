@@ -1,20 +1,14 @@
 - title: "feed"
-  href: "https://charliebunt.io/charliebunt.github.io/atom.xml"
-
-- title: "googleplus"
-  href: "#"
+  href: "/atom.xml"
 
 - title: "facebook"
-  href: "#"
-  
-- title: "tumblr"
-  href: "#"
-  
+  href: "https://www.facebook.com/buntcharlie"
+ 
 - title: "twitter"
   href: "https://twitter.com/@charliebunty"
 
 - title: "github"
-  href: "https://github.com/charliebunt/charliebunt.github.io"
+  href: "https://charliebunt.github.io"
 
 - title: "linkedin"
-  href: "https://www.linkedin.com/in/charliebunt"
+  href: "https://www.linkedin.com/in/charlie-bunt"

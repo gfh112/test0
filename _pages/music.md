@@ -1,0 +1,10 @@
+---
+layout: page
+title: music
+permalink: "/projects/music/"
+--- 
+# Music
+
+<p>When I was in Kindergarten or thereabouts my mother bought me a piano and you would think that would give me great joy but it did the opposite for all the practising after school expected of me. The piano became a very fearful place for me! Of course, I rarely practised and I hated every moment although I went to recitals. However, I loved listening to music on my 75 record player and my little transistor radio. The Beatles and all else in the '60s was played every Sunday with the top ten and I was glued to it. So, although I have an ingrained fear of the piano, I love playing the guitar and making up songs and I started to do so as a teen. </p>
+<p>Below is the link to one song I recorded and if you click on my name you will find and be able to listen to a list of songs I've written and performed. Mostly, I've enjoyed writing music for children which can be found in the puppetry section of this folio.</p>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265041176&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/charlie-bunt-824644391" title="Charlie Bunt" target="_blank" style="color: #cccccc; text-decoration: none;">Charlie Bunt</a> · <a href="https://soundcloud.com/charlie-bunt-824644391/pretty-faces" title="Pretty faces" target="_blank" style="color: #cccccc; text-decoration: none;">Pretty faces</a></div>
