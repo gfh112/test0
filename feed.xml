@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <xsl:template match="/">
+    <html>
+      <head>
+        <title>Charlie Bunt portfolio</title>
+      </head>
+      <body>
+        <h1>Charlie Bunt portfolio</h1>
+        <xsl:apply-templates/>
+      </body>
+    </html>
+  </xsl:template>
+
+  <xsl:template match="channel">
+    <h2><xsl:value-of select="title"/></h2>
+    <p><xsl:value-of select="description"/></p>
+    <p><a href="{link}">Visit the website</a></p>
+    <hr/>
+    <xsl:apply-templates select="item"/>
+  </xsl:template>
+
+  <xsl:template match="item">
+    <h3><xsl:value-of select="title"/></h3>
+    <p><xsl:value-of select="description"/></p>
+    <p><a href="{link}">Read more</a></p>
+    <hr/>
+  </xsl:template>
+</xsl:stylesheet>

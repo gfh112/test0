@@ -2,19 +2,19 @@
 name: "Illustration"
 arts:
 # Column 1
-- image: "images/galleries/Illustration/fencer.jpg"
+- image: "images/galleries/illustration/fencer.jpg"
   order: "1"
   title: "The Fencer"
   artist: "Charlie Bunt"
   description: "From the Witch and the Fencer poem"
   
-- image: "images/galleries/Illustration/witch.jpg"
+- image: "images/galleries/illustration/witch.jpg"
   order: "2"
   title: "Witch"
   artist: "Charlie Bunt"
   description: "From the Witch and the Fencer poem"
 
-- image: "images/galleries/Illustration/betrayal.jpg"
+- image: "images/galleries/illustration/betrayal.jpg"
   order: "3"
   title: "Betrayal"
   artist: "Charlie Bunt"

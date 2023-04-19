@@ -11,10 +11,10 @@ permalink: "/projects/writing/"
 
 <img src="{{site.baseurl}}/images/writing/sea.png" width="250" height="250"> Available on <a href="https://amzn.asia/d/9878YBq">Amazon</a>
 
-<p>This is the latest published work in 2023. A short story about a child's miraculous encounter. </p>
+<p>This is a biography I wrote about my mother, an unknown artist, who was nevertheless prolifically talented.</p>
 
 
-<img src="{{site.baseurl}}/images/writing/blossom.png" width="250" height="250"> Available on <a href="https://a.co/d/brzAf8v">Amazon</a>and a free copy to browse at the National Portrait Gallery
+<img src="{{site.baseurl}}/images/writing/blossom.png" width="250" height="250"> Available on <a href="https://a.co/d/brzAf8v">Amazon</a> and a free copy to browse at the National Portrait Gallery
 
 
 <p>This is the musical rendition of 'the three lil pigs' in book form capturing the live performance of the 90's.</p>
