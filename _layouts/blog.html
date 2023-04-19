@@ -1,25 +1,33 @@
 ---
 layout: default
 ---
-<div class="small-12 columns wraptainer">
-{% for post in site.posts %}
-<div class="roll page-content">
-        <header>
-                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <h2>
-                    <a class="post-link" href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a>
-                </h2>
-        </header>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{ "/feed.xml" | relative_url }}">
+  </head>
+  <body>
+    <header>
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+    </header>
+
+    <div class="posts">
+      {% for post in site.posts %}
         <article>
-        {% if post.thumbnail %}
-            <a href="{{ site.url }}{{ post.url }}">
-                <figure>
-                    <img src="{{ site.github.url }}/{{ post.thumbnail }}" class="thumb" width="150px" height="150px" />
-                </figure>
-            </a>
-        {% endif %}
-                <p>{{ post.excerpt }}  <a href="{{ site.github.url }}/{{ post.url }}">Read More</a></p>
+          <header>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+          </header>
+
+          <div class="post-content">
+            {{ post.content }}
+          </div>
         </article>
-</div>
-{% endfor %}
-</div>
+      {% endfor %}
+    </div>
+  </body>
+</html>
