@@ -11,8 +11,7 @@ github:
 
 header: images/logo.png
 
-# Formspree contact Form
-contact_form: "https://formspree.io/f/mbjeqrkk"
+
 
 # stats
 remote_theme: FredEkstrand/jekyll-theme-slateb
