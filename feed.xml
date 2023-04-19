@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-  <xsl:template match="/">
-    <html>
-      <head>
-        <title>Charlie Bunt portfolio</title>
-      </head>
-      <body>
-        <h1>Charlie Bunt portfolio</h1>
-        <xsl:apply-templates/>
-      </body>
-    </html>
-  </xsl:template>
-
-  <xsl:template match="channel">
-    <h2><xsl:value-of select="title"/></h2>
-    <p><xsl:value-of select="description"/></p>
-    <p><a href="{link}">Visit the website</a></p>
-    <hr/>
-    <xsl:apply-templates select="item"/>
-  </xsl:template>
-
-  <xsl:template match="item">
-    <h3><xsl:value-of select="title"/></h3>
-    <p><xsl:value-of select="description"/></p>
-    <p><a href="{link}">Read more</a></p>
-    <hr/>
-  </xsl:template>
-</xsl:stylesheet>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Charlie Bunt's Blog</title>
+  <link href="https://charliebunt.github.io/blog/"/>
+  <updated>2023-04-19T00:00:00Z</updated>
+  <author>
+    <name>Charlie Bunt</name>
+  </author>
+  <id>https://charliebunt.github.io/blog/</id>
+  
+  <entry>
+    <title>Example Blog Post</title>
+    <link href="https://charliebunt.github.io/blog/example-post"/>
+    <id>https://charliebunt.github.io/blog/example-post</id>
+    <published>2023-04-15T00:00:00Z</published>
+    <updated>2023-04-15T00:00:00Z</updated>
+    <author>
+      <name>Charlie Bunt</name>
+    </author>
+    <content type="html">
+      <![CDATA[
+        <p>This is an example blog post.</p>
+      ]]>
+    </content>
+  </entry>
+  
+  <!-- Add additional entry elements for each blog post -->
+  
+</feed>
