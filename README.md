@@ -1,5 +1,1 @@
----
-layout: gallery
-title: Illustration
-permalink: "README.html"
---- 
+charliebunt.github.io
