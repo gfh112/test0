@@ -2,7 +2,7 @@
 name: "Illustration"
 arts:
 # Column 1
-- image: "images/galleries/illustration/fencer.jpg"
+- image: "https://charliebunt.github.io/images/galleries/illustration/fencer.jpg"
   order: "1"
   title: "The Fencer"
   artist: "Charlie Bunt"
