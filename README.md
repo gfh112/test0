@@ -1,2 +1,5 @@
-# charliebunt.github.io
-Portfolio of Charlie Bunt
+---
+layout: gallery
+title: Illustration
+permalink: "/illustration/"
+--- 
