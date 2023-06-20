@@ -1,28 +1,27 @@
-# Column 1
-- image: "images/galleries/illustration/fencer.jpg"
-  order: "1"
-  title: "The Fencer"
-  artist: "Charlie Bunt"
-  description: "From the Witch and the Fencer poem"
+
+  <img src="images/fencer.jpg"
+     raw=true
+     alt="fencer From the Witch and the Fencer poem"
+     style="margin-right: 10px;" />
   
-- image: "images/galleries/illustration/witch.jpg"
-  order: "2"
-  title: "Witch"
-  artist: "Charlie Bunt"
-  description: "From the Witch and the Fencer poem"
 
-- image: "images/galleries/illustration/betrayal.jpg"
-  order: "3"
-  title: "Betrayal"
-  artist: "Charlie Bunt"
-  description: "Betrayal"
+   <img src="images/witch.jpg"
+     raw=true
+     alt="witch From the Witch and the Fencer poem"
+     style="margin-right: 10px;" />
 
-# Column 2
-- image: "images/galleries/illustration/chick.jpg"
-  order: "4"
-  title: "Chick"
-  artist: "Charlie Bunt"
-  description: "Ad Campaign"
+
+  <img src="images/betrayal.jpg"
+     raw=true
+     alt="Betrayal"
+     style="margin-right: 10px;" />
+ 
+
+
+  <img src="images/chick.jpg"
+     raw=true
+     alt="ad campaign"
+     style="margin-right: 10px;" />
 
 - image: "images/galleries/illustration/birdie.jpg"
   order: "5"
@@ -30,67 +29,70 @@
   artist: "Charlie Bunt"
   description: "Bird in hand"
 
-- image: "images/galleries/illustration/animals.jpg"
-  order: "6"
-  title: "Menagerie"
-  artist: "Charlie Bunt"
-  description: "On The farm"
+  <img src="images/birdie.jpg"
+     raw=true
+     alt="bird in hand"
+     style="margin-right: 10px;" />
+
+
+  <img src="images/animals.jpg"
+     raw=true
+     alt="drawing of animals on the farm"
+     style="margin-right: 10px;" />
  
-# Column 3
-- image: "images/galleries/illustration/claw.png"
-  order: "7"
-  title: "Puffclaw"
-  artist: "Charlie Bunt"
-  description: "Cat"
 
-- image: "images/galleries/illustration/beans.jpg"
-  order: "8"
-  title: "Beans"
-  artist: "Charlie Bunt"
-  description: "Messy Shopper"
+
+  <img src="images/clawjpg"
+     raw=true
+     alt="abstract cat drawing PUFF CLAW"
+     style="margin-right: 10px;" />
+
+
+  <img src="images/beans.jpg"
+     raw=true
+     alt="Messy Shopper"
+     style="margin-right: 10px;" />
   
-- image: "images/galleries/illustration/malice.jpg"
-  order: "9"
-  title: "Malice"
-  artist: "Charlie Bunt"
-  description: "Unscrupulous Being"
 
-# Column 4
-- image: "images/galleries/illustration/soccer.jpg"
-  order: "10"
-  title: "Soccer Fan"
-  artist: "Charlie Bunt"
-  description: "Shopping"
+  <img src="images/malice.jpg"
+     raw=true
+     alt="Unscrupulous Being"
+     style="margin-right: 10px;" />
+
+
+  <img src="images/soccer.jpg"
+     raw=true
+     alt="soccer fan"
+     style="margin-right: 10px;" />
   
-- image: "images/galleries/illustration/poem.jpg"
-  order: "11"
-  title: "The Wishing Well"
-  artist: "Charlie Bunt"
-  description: "Poem"
+
+  <img src="images/poem.jpg"
+     raw=true
+     alt="poem"
+     style="margin-right: 10px;" />
   
-- image: "images/galleries/illustration/sam.jpg"
-  order: "12"
-  title: "Artist"
-  artist: "Charlie Bunt"
-  description: "Someone on Facebook"
+
+  <img src="images/sam.jpg"
+     raw=true
+     alt="artist named Samson"
+     style="margin-right: 10px;" />
   
-- image: "images/galleries/illustration/ikigai.png"
-  order: "13"
-  title: "Ikigai"
-  artist: "Charlie Bunt"
-  description: "Modern Girl"
 
-- image: "images/galleries/illustration/man.gif"
-  order: "14"
-  title: "Blank"
-  artist: "Charlie Bunt"
-  description: "On Computer"
-
-- image: "images/galleries/illustration/cartoon.jpg"
-  order: "15"
-  title: "SOS"
-  artist: "Charlie Bunt"
-  description: "comic series"
+  <img src="images/ikigai.jpg"
+     raw=true
+     alt="cartoon girl"
+     style="margin-right: 10px;" />
 
 
----
+  <img src="images/man.gif"
+     raw=true
+     alt="lil animated man stupified"
+     style="margin-right: 10px;" />
+
+
+  <img src="images/cartoon.jpg"
+     raw=true
+     alt="sos comic series"
+     style="margin-right: 10px;" />
+
+
