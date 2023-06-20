@@ -13,7 +13,7 @@
 
   <img src="images/betrayal.jpg"
      raw=true
-     alt="Betrayal"
+     alt="Betrayal" width="200" height="200"
      style="margin-right: 10px;" />
  
 
@@ -38,7 +38,7 @@
  
 
 
-  <img src="images/clawjpg"
+  <img src="images/claw.png"
      raw=true
      alt="abstract cat drawing PUFF CLAW"
      style="margin-right: 10px;" />
