@@ -2,19 +2,19 @@
 name: "Illustration"
 arts:
 # Column 1
-- image: "images/galleries/illustration/fencer.jpg"
+- image: "images/galleries/illustration/fencer.png"
   order: "1"
   title: "The Fencer"
   artist: "Charlie Bunt"
   description: "From the Witch and the Fencer poem"
   
-- image: "images/galleries/illustration/witch.jpg"
+- image: "images/galleries/illustration/witch.png"
   order: "2"
   title: "Witch"
   artist: "Charlie Bunt"
   description: "From the Witch and the Fencer poem"
 
-- image: "images/galleries/illustration/betrayal.jpg"
+- image: "images/galleries/illustration/betrayal.png"
   order: "3"
   title: "Betrayal"
   artist: "Charlie Bunt"
@@ -33,14 +33,14 @@ arts:
   artist: "Charlie Bunt"
   description: "Bird in hand"
 
-- image: "images/galleries/illustration/animals.jpg"
+- image: "images/galleries/illustration/animals.png"
   order: "6"
   title: "Menagerie"
   artist: "Charlie Bunt"
   description: "On The farm"
  
 # Column 3
-- image: "images/galleries/illustration/claw.png"
+- image: "images/galleries/illustration/puffclaw.png"
   order: "7"
   title: "Puffclaw"
   artist: "Charlie Bunt"
@@ -59,7 +59,7 @@ arts:
   description: "Unscrupulous Being"
 
 # Column 4
-- image: "images/galleries/illustration/soccer.jpg"
+- image: "images/galleries/illustration/shop.png"
   order: "10"
   title: "Soccer Fan"
   artist: "Charlie Bunt"
@@ -71,7 +71,7 @@ arts:
   artist: "Charlie Bunt"
   description: "Poem"
   
-- image: "images/galleries/illustration/sam.jpg"
+- image: "images/galleries/illustration/samson.png"
   order: "12"
   title: "Artist"
   artist: "Charlie Bunt"
