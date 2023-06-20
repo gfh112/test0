@@ -23,11 +23,7 @@
      alt="ad campaign"
      style="margin-right: 10px;" />
 
-- image: "images/galleries/illustration/birdie.jpg"
-  order: "5"
-  title: "Birdie"
-  artist: "Charlie Bunt"
-  description: "Bird in hand"
+
 
   <img src="images/birdie.jpg"
      raw=true
