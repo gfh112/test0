@@ -8,7 +8,7 @@
    <img src="images/witch.jpg"
      raw=true
      alt="witch From the Witch and the Fencer poem" width="200" height="200"
-     style="margin-right: 210px;" />
+     style="margin-left: 10px;" />
 
 
   <img src="images/betrayal.jpg"
