@@ -2,10 +2,10 @@
  
   
 
-   <img src="images/witchprotected.png"
+   <img src="images/colourface.gif"
      raw=true
-     alt="witch From the Witch and the Fencer poem" 
-     style="margin-right: 10px;" />
+     alt="colour change face" 
+     style="margin-right: 100px;" />
 
 
  
