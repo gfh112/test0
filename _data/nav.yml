@@ -1,6 +1,10 @@
 - title: "Illustration"
   href: "/illustration/"
 
+- title: "Landscapes"
+  href: "/landscapes/"
+
+
 - title: "animation"
   href: "/animation/"
   
@@ -9,7 +13,7 @@
     - subtitle: "acting"
       subhref: "/projects/acting/"
     - subtitle: "digital art"
-      subhref: "/projects/digital-art/"
+      subhref: "/projects/graphic design/"
     - subtitle: "music"
       subhref: "/projects/music/"
     - subtitle: "puppetry"
