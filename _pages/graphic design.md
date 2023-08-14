@@ -31,7 +31,7 @@ When finally I created a Flash website of my own, which took me hours of learnin
 
 <p><b>logos, print, advertising.</b></p>
 <img src="{{site.baseurl}}/images/graphic design/yabbit.jpg" width="250" height="250">
-<img src="{{site.baseurl}}/images/graphic design/mylogo.png" width="250" height="250">
+<img src="{{site.baseurl}}/images/graphic design/mylogo.png" width="150" height="150">
 <img src="{{site.baseurl}}/images/graphic design/physio.jpg" width="250" height="250">
 <img src="{{site.baseurl}}/images/graphic design/chicks'n'silk.png" width="250" height="250">
 <img src="{{site.baseurl}}/images/graphic design/correct2.png" width="250" height="250">
