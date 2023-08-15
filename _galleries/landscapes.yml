@@ -14,12 +14,7 @@ arts:
   artist: "Charlie Bunt"
   description: "River Walk Oval"
 
-- image: "images/galleries/landscapes/darlingV.png"
-  order: "7"
-  title: "Darling Harbour"
-  artist: "Charlie Bunt"
-  description: "Darling Harbour Sydney"
-  
+
 
 
 # Column 2
@@ -50,6 +45,14 @@ arts:
   title: "River Walk Bridge"
   artist: "Charlie Bunt"
   description: "River Walk Bridge"
+
+# Column 4
+  - image: "images/galleries/landscapes/darlingV.png"
+  order: "7"
+  title: "Darling Harbour"
+  artist: "Charlie Bunt"
+  description: "Darling Harbour Sydney"
+  
   
 
 
