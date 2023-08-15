@@ -2,17 +2,21 @@
 name: "Landscapes"
 arts:
 # Column 1
-- image: "images/galleries/landscapes/riverwalk1V.gif"
+
+- image: "images/galleries/landscapes/riverwalk1V.png"
   order: "1"
   title: "River Walk Oval"
   artist: "Charlie Bunt"
-  description: "River Walk Oval animated"
-  
-  - image: "images/galleries/landscapes/riverwalk2V.gif"
+  description: "River Walk Oval"
+
+
+- image: "images/galleries/landscapes/riverwalk2V.png"
   order: "2"
   title: "River Walk Main"
   artist: "Charlie Bunt"
-  description: "River Walk Main animated"
+  description: "River Walk Main"
+
+
 
   - image: "images/galleries/landscapes/riverwalk3V.png"
   order: "3"
@@ -28,32 +32,7 @@ arts:
 
 # Column 2
 
-
-- image: "images/galleries/landscapes/riverwalk1V.png"
-  order: "4"
-  title: "River Walk Oval"
-  artist: "Charlie Bunt"
-  description: "River Walk Oval"
-
-
-- image: "images/galleries/landscapes/riverwalk2V.png"
-  order: "5"
-  title: "River Walk Main"
-  artist: "Charlie Bunt"
-  description: "River Walk Main"
-
-
- - image: "images/galleries/landscapes/riverwalk3V.gif"
-  order: "6"
-  title: "River Walk Bridge"
-  artist: "Charlie Bunt"
-  description: "River Walk Bridge animated"
-
-
-
-
-# Column 3
-  - image: "images/galleries/landscapes/darlingV.png"
+- image: "images/galleries/landscapes/darlingV.png"
   order: "7"
   title: "Darling Harbour"
   artist: "Charlie Bunt"
