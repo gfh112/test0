@@ -8,7 +8,7 @@ arts:
   artist: "Charlie Bunt"
   description: "River Walk Oval animated"
 
-- image: "images/galleries/landscapes/riverwalk1.png"
+- image: "images/galleries/landscapes/riverwalk1V.png"
   order: "4"
   title: "River Walk Oval"
   artist: "Charlie Bunt"
@@ -29,7 +29,7 @@ arts:
   artist: "Charlie Bunt"
   description: "River Walk Main animated"
 
-- image: "images/galleries/landscapes/riverwalk2.png"
+- image: "images/galleries/landscapes/riverwalk2V.png"
   order: "5"
   title: "River Walk Main"
   artist: "Charlie Bunt"
@@ -45,7 +45,7 @@ arts:
   description: "River Walk Bridge animated"
 
 
-- image: "images/galleries/landscapes/riverwalk3.png"
+- image: "images/galleries/landscapes/riverwalk3V.png"
   order: "6"
   title: "River Walk Bridge"
   artist: "Charlie Bunt"
