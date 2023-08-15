@@ -2,15 +2,18 @@
   href: "/illustration/"
 
 
-- title: "animation"
+- title: "Animation"
   href: "/animation/"
+
+  - title: "Portraits"
+  href: "/portraits/"
   
 - title: "Projects"
   subcategories:
     - subtitle: "acting"
       subhref: "/projects/acting/"
-    - subtitle: "graphic design"
-      subhref: "/projects/graphic design/"
+    - subtitle: "concept"
+      subhref: "/projects/concept/"
     - subtitle: "music"
       subhref: "/projects/music/"
     - subtitle: "puppetry"
