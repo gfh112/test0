@@ -43,9 +43,7 @@ arts:
   description: "River Walk Main"
 
 
- 
-# Column 3
-- image: "images/galleries/landscapes/riverwalk3V.gif"
+ - image: "images/galleries/landscapes/riverwalk3V.gif"
   order: "6"
   title: "River Walk Bridge"
   artist: "Charlie Bunt"
@@ -54,7 +52,7 @@ arts:
 
 
 
-# Column 4
+# Column 3
   - image: "images/galleries/landscapes/darlingV.png"
   order: "7"
   title: "Darling Harbour"
