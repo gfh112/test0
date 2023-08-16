@@ -9,6 +9,9 @@
 
 - title: "Portraits"
   href: "/portraits/"
+  subcategories:
+    - subtitle: "self-portraits"
+      subhref: "/portraits/self-portraits/"
   
 - title: "projects"
   subcategories:
