@@ -1,0 +1,152 @@
+---
+name: "Portraits"
+arts:
+# Column 1
+- image: "images/galleries/portraits/selfportraits/smile.jpg"
+  order: "1"
+  title: "smile"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+  
+- image: "images/galleries/portraits/selfportraits/eastern.jpg"
+  order: "2"
+  title: "eastern"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/early.jpg"
+  order: "3"
+  title: "first"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/red.jpg"
+  order: "4"
+  title: "red"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/106.jpg"
+  order: "5"
+  title: "106"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+
+
+# Column 2
+- image: "images/galleries/portraits/selfportraits/me5.jpg"
+  order: "6"
+  title: "me5"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/grey.jpg"
+  order: "7"
+  title: "grey"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/2009.jpg"
+  order: "8"
+  title: "2009"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/mepink.jpg"
+  order: "9"
+  title: "mepink"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/mepeace.jpg"
+  order: "10"
+  title: "mepeace"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+
+ 
+# Column 3
+- image: "images/galleries/portraits/selfportraits/meweird.jpg"
+  order: "11"
+  title: "meweird"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/me2.jpg"
+  order: "12"
+  title: "me2"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+  
+- image: "images/galleries/portraits/selfportraits/me3.jpg"
+  order: "13"
+  title: "me3"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/yellow.jpg"
+  order: "14"
+  title: "yellow"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/me.png"
+  order: "15"
+  title: "me"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/melogo.png"
+  order: "16"
+  title: "melogo"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+
+
+# Column 4
+- image: "images/galleries/portraits/selfportraits/window.jpg"
+  order: "17"
+  title: "window"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+  
+- image: "images/galleries/portraits/selfportraits/meweirder.jpg"
+  order: "18"
+  title: "meweirder"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+  
+- image: "images/galleries/portraits/selfportraits/medussa.jpg"
+  order: "19"
+  title: "medussa"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+  
+- image: "images/galleries/portraits/selfportraits/selfyellow.jpg"
+  order: "20"
+  title: "selfyellow"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+
+- image: "images/galleries/portraits/selfportraits/self.png"
+  order: "21"
+  title: "self"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+- image: "images/galleries/portraits/selfportraits/metarget.jpg"
+  order: "22"
+  title: "metarget"
+  artist: "Charlie Bunt"
+  description: "self portrait"
+
+
+
+
+
+
+---
