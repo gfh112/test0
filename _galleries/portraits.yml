@@ -1,0 +1,202 @@
+---
+name: "Portraits"
+arts:
+# Column 1
+- image: "images/galleries/portraits/josie2.png"
+  order: "1"
+  title: "Josie"
+  artist: "Charlie Bunt"
+  description: "Daughter of a friend in Sweden"
+  
+- image: "images/galleries/portraits/lilwayne.png"
+  order: "2"
+  title: "LilWayne"
+  artist: "Charlie Bunt"
+  description: "not affilaited"
+
+- image: "images/galleries/portraits/LP.png"
+  order: "3"
+  title: "LP"
+  artist: "Charlie Bunt"
+  description: "Musician and friend"
+
+- image: "images/galleries/portraits/paulina.png"
+  order: "4"
+  title: "Paulina"
+  artist: "Charlie Bunt"
+  description: "Online friend"
+
+- image: "images/galleries/portraits/rocknrollove.png"
+  order: "5"
+  title: "RocknRoll"
+  artist: "Charlie Bunt"
+  description: "Swedish friend"
+
+- image: "images/galleries/portraits/tziporah.png"
+  order: "6"
+  title: "Tziporah"
+  artist: "Charlie Bunt"
+  description: "stepsister of friend"
+
+- image: "images/galleries/portraits/jack&reg.png"
+  order: "7"
+  title: "Jack&Reg"
+  artist: "Charlie Bunt"
+  description: "Aussie-Icons"
+
+- image: "images/galleries/portraits/james.png"
+  order: "8"
+  title: "James&Gen"
+  artist: "Charlie Bunt"
+  description: "my family"
+
+
+# Column 2
+- image: "images/galleries/portraits/maree.png"
+  order: "9"
+  title: "Maree"
+  artist: "Charlie Bunt"
+  description: "commissioned"
+
+- image: "images/galleries/portraits/maree&son.png"
+  order: "10"
+  title: "Maree&son"
+  artist: "Charlie Bunt"
+  description: "commissioned"
+
+- image: "images/galleries/portraits/marie.png"
+  order: "11"
+  title: "Marie"
+  artist: "Charlie Bunt"
+  description: "colab-artist"
+
+- image: "images/galleries/portraits/cmanon1.png"
+  order: "12"
+  title: "Manon"
+  artist: "Charlie Bunt"
+  description: "Actor"
+
+- image: "images/galleries/portraits/cmanon2.png"
+  order: "13"
+  title: "Manon-2"
+  artist: "Charlie Bunt"
+  description: "Actor"
+
+- image: "images/galleries/portraits/bunny.png"
+  order: "14"
+  title: "NYbesties"
+  artist: "Charlie Bunt"
+  description: "commissioned"
+
+- image: "images/galleries/portraits/clubgrls.png"
+  order: "15"
+  title: "Club girls"
+  artist: "Charlie Bunt"
+  description: "online friends"
+
+- image: "images/galleries/portraits/bill2.png"
+  order: "16"
+  title: "Bill"
+  artist: "Charlie Bunt"
+  description: "online friend"
+
+ 
+# Column 3
+- image: "images/galleries/portraits/argue.png"
+  order: "17"
+  title: "David Argue"
+  artist: "Charlie Bunt"
+  description: "Actor and friend"
+
+- image: "images/galleries/portraits/minko.png"
+  order: "18"
+  title: "Minko"
+  artist: "Charlie Bunt"
+  description: "Musician"
+  
+- image: "images/galleries/portraits/moira.png"
+  order: "19"
+  title: "Moira"
+  artist: "Charlie Bunt"
+  description: "Friend and director of Aussie cult classic 'Going Down'"
+
+- image: "images/galleries/portraits/edk.png"
+  order: "20"
+  title: "Ed Keupper"
+  artist: "Charlie Bunt"
+  description: "Musician"
+
+- image: "images/galleries/portraits/henri.png"
+  order: "21"
+  title: "Henri"
+  artist: "Charlie Bunt"
+  description: "Online friend"
+
+- image: "images/galleries/portraits/booband.png"
+  order: "22"
+  title: "Boo Band"
+  artist: "Charlie Bunt"
+  description: "Band"
+
+- image: "images/galleries/portraits/daw.png"
+  order: "23"
+  title: "DAW"
+  artist: "Charlie Bunt"
+  description: "Online friend"
+
+- image: "images/galleries/portraits/johnny.png"
+  order: "24"
+  title: "Johnny"
+  artist: "Charlie Bunt"
+  description: "Online friend"
+
+
+# Column 4
+- image: "images/galleries/portraits/nick.png"
+  order: "25"
+  title: "Nick"
+  artist: "Charlie Bunt"
+  description: "PainterUK"
+  
+- image: "images/galleries/portraits/ollie.png"
+  order: "26"
+  title: "Ollie"
+  artist: "Charlie Bunt"
+  description: "Musician"
+  
+- image: "images/galleries/portraits/packer.png"
+  order: "27"
+  title: "James Packer"
+  artist: "Charlie Bunt"
+  description: "Businessman"
+  
+- image: "images/galleries/portraits/selwyn.png"
+  order: "28"
+  title: "US Man"
+  artist: "Charlie Bunt"
+  description: "commissioned"
+
+- image: "images/galleries/portraits/jo.png"
+  order: "29"
+  title: "Jo"
+  artist: "Charlie Bunt"
+  description: "Online friend"
+
+- image: "images/galleries/portraits/brothers.png"
+  order: "30"
+  title: "Brothers"
+  artist: "Charlie Bunt"
+  description: "commissioned"
+
+- image: "images/galleries/portraits/matilda.png"
+  order: "31"
+  title: "Matilda"
+  artist: "Charlie Bunt"
+  description: "Aussie director"
+
+
+
+
+
+
+---
