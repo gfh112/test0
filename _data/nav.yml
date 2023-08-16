@@ -1,11 +1,10 @@
 - title: "Illustration"
   href: "/illustration/"
 
-
 - title: "Animation"
   href: "/animation/"
 
-  - title: "Portraits"
+- title: "Portraits"
   href: "/portraits/"
   
 - title: "Projects"
@@ -23,12 +22,6 @@
     - subtitle: "writing"
       subhref: "/projects/writing/"
    
-   
-   
-   
-   
- 
-
 - title: "blog"
   href: "/blog/"
 
