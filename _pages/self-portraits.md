@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: Portraits
-permalink: "/portraits/self-portraits/"
+title: Self-Portraits
+permalink: "/self-portraits/"
 --- 
