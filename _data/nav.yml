@@ -1,0 +1,51 @@
+- title: "Illustration"
+  href: "/illustration/"
+
+- title: "Animation"
+  href: "/animation/"
+
+- title: "Landscapes"
+  subcategories:
+    - subtitle: "natural"
+      subhref: "/landscapes/"
+
+    - subtitle: "urban"
+      subhref: "/landscapes-urban/"
+
+- title: "portraits"
+  subcategories:
+    - subtitle: "general"
+      subhref: "/portraits/"
+
+    - subtitle: "self"
+      subhref: "/self-portraits/"
+  
+- title: "Projects"
+  subcategories:
+    - subtitle: "acting"
+      subhref: "/projects/acting/"
+    - subtitle: "concept"
+      subhref: "/projects/concept/"
+    - subtitle: "music"
+      subhref: "/projects/music/"
+    - subtitle: "puppetry"
+      subhref: "/projects/puppetry/"
+    - subtitle: "sewing"
+      subhref: "/projects/sewing/"
+    - subtitle: "writing"
+      subhref: "/projects/writing/"
+   
+   
+   
+   
+   
+ 
+
+- title: "blog"
+  href: "/blog/"
+
+- title: "about"
+  href: "/about/"
+  
+- title: "contact"
+  href: "/contact/"
