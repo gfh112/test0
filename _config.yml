@@ -44,7 +44,7 @@ collections:
 
 #### SEO Stuff
 # Google Analytics
-google_universal_analytics: 270255091
+google_universal_analytics: 
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
