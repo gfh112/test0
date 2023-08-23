@@ -31,7 +31,7 @@ gems:
   - jekyll-sitemap
 
 feed:
-  path: atom.xml
+  path: feed.xml
   
 # Compress our Css
 #sass:
