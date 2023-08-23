@@ -27,11 +27,11 @@ kramdown:
 # Plugins
 gems:
   - jekyll-feed
-  href: "https://charliebunt.github.io/blog/feed.xml"
+  href: "https://charliebunt.github.io/feed.xml"
   - jekyll-sitemap
 
 feed:
-  path: blog/feed.xml
+  path: feed.xml
   
 # Compress our Css
 #sass:
