@@ -31,7 +31,7 @@ gems:
   - jekyll-sitemap
 
 feed:
-  path: feed.xml
+  path: blog/feed.xml
   
 # Compress our Css
 #sass:
