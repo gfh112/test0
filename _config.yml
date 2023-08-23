@@ -27,7 +27,7 @@ kramdown:
 # Plugins
 gems:
   - jekyll-feed
-  href: "https://charliebunt.github.io/atom.xml"
+  href: "https://charliebunt.github.io/blog/feed.xml"
   - jekyll-sitemap
 
 feed:
