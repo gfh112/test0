@@ -76,19 +76,7 @@ arts:
   title: "Artist"
   artist: "Charlie Bunt"
   description: "Samson artist"
-  
-- image: "images/galleries/illustration/ikigai.gif"
-  order: "13"
-  title: "Ikigai"
-  artist: "Charlie Bunt"
-  description: "Modern Girl"
 
-
-- image: "images/galleries/illustration/man.gif"
-  order: "14"
-  title: "Blank"
-  artist: "Charlie Bunt"
-  description: "On Computer"
 
 - image: "images/galleries/illustration/cartoon.jpg"
   order: "15"
