@@ -20,6 +20,14 @@ arts:
     artist: Charlie Bunt
     description: River Walk Bridge
 
+# Column 2
+  - image: images/galleries/landscapes/railwayH.png
+    order: "4"
+    title: Railway
+    artist: Charlie Bunt
+    description: Railway on the Monaro
+
+
 
 
 ---
