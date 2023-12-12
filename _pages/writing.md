@@ -4,7 +4,7 @@ Title:  writing
 permalink: "/projects/writing/"
 ---
 # Writing
-<p>Writing is something we all must do in one way or another and for me it came later in life. I met a young man in the 80's , Luke Davies (of "Candy" fame), who influenced me to write poetry and I've gone from there, on and off, when in the mood. One of my favourite things to do is write monologues and it was useful for theatre auditions.</p>
+<p>Writing is something we all must do in one way or another and for me it came in my 20's when I met writer Luke Davies as well as Kathleen Stewart who both influenced me to write and I've gone from there. One of my favourite things to do is to write monologues and it was useful for theatre auditions.</p>
 <p>Nowadays I plan on creating animation with monologue as digital performance pieces. However overall I tend towards writing musical theatre, short stories and poetry. Below are three published works..</p>
 <p>These are the latest published works in 2023. An ebook of poetry with AI imagery.</p>
    
