@@ -8,7 +8,7 @@ permalink: "/projects/writing/"
 <p>Nowadays I plan on creating animation with monologue as digital performance pieces. However overall I tend towards writing musical theatre, short stories and poetry. Below are three published works..</p>
 <p>These are the latest published works in 2023. An ebook of poetry with AI imagery.</p>
    
-  <img src="{{site.baseurl}}/images/writing/ai.png" width="250" height="250"> Available on <a href="https://images.app.goo.gl/bZzRTKxCAv4HRSrr6)]](https://www.booktopia.com.au/poems-ai-charlie-bunt/ebook/9798223124047.html">Booktopia</a>
+  <img src="{{site.baseurl}}/images/writing/ai.png" width="250" height="250"> Available on <a href="https://www.booktopia.com.au/poems-ai-charlie-bunt/ebook/9798223124047.html">Booktopia</a>
 
   <p>Also there are NFTs created of these images available at <a href="https://opensea.io/collection/charlie-bunt-poetry-ai-imagery">OpenSea</a></p>
   
