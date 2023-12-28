@@ -11,9 +11,11 @@ permalink: "/projects/sewing/"
 <p>While running a puppet theatre I created many outfits for puppets and a couple of large puppets created out of stretch fabric over a wire padded frame.</p>
 <img src="{{site.baseurl}}/images/sewing/mantis.jpg" width="250" height="250">
 <img src="{{site.baseurl}}/images/sewing/troll.jpg" width="250" height="250">
-<p>As a Grandmother I enjoy creating dolls and teddies.</p>
+<p>As a Grandmother I enjoy creating dolls and teddies and clothing.</p>
 <img src="{{site.baseurl}}/images/sewing/fugly.png" width="250" height="250">
 <img src="{{site.baseurl}}/images/sewing/bigdoll.png" width="250" height="250">
+<img src="{{site.baseurl}}/images/sewing/izzy1.png" width="250" height="250">
+<img src="{{site.baseurl}}/images/sewing/izzy2.png" width="250" height="250">
 <p>For my brand Lotty Roo I am trying to perfect a kangaroo "flya" doll.</p>
 <img src="{{site.baseurl}}/images/sewing/flya.png" width="250" height="250">
 <p>Personally I enjoy sewing and creating my own patterns for clothing.</p>
