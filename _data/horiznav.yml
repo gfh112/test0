@@ -7,11 +7,9 @@
 - title: "GIFS-et-Al"
   href: "/gifs-et-al/"
 
-
 - title: "Landscapes"
   href: "/landscapes/"
  
-
 - title: "portraits"
   subcategories:
     - subtitle: "general"
@@ -40,7 +38,6 @@
     - subtitle: "writing"
       subhref: "/projects/writing/"
    
-
 - title: "blog"
   href: "/blog/"
 
