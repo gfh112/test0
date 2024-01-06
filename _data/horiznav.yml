@@ -9,12 +9,8 @@
 
 
 - title: "Landscapes"
-  subcategories:
-    - subtitle: "natural"
-      subhref: "/landscapes/"
-
-    - subtitle: "urban"
-      subhref: "/landscapes-urban/"
+  href: "/landscapes/"
+ 
 
 - title: "portraits"
   subcategories:
