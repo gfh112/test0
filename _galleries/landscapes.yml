@@ -34,24 +34,26 @@ arts:
     description: Tharwa Bridge
 
 # Column 3
-- image: images/galleries/landscapes/riverwalk1V.png
+- image: images/galleries/landscapes/ladiesblank.png
     order: "1"
-    title: River Walk Oval
+    title: Ladies
     artist: Charlie Bunt
-    description: River Walk Oval
+    description: Ladies Toilet Block by Charlie Bunt
 
-  - image: images/galleries/landscapes/riverwalk2V.png
+  - image: images/galleries/landscapes/refill.png
     order: "2"
-    title: River Walk Main
+    title: REFILL
     artist: Charlie Bunt
-    description: River Walk Main
+    description: Refill Station by Charlie Bunt
 
-  - image: images/galleries/landscapes/riverwalk3V.png
+# Column 2
+  - image: images/galleries/landscapes/darlingV.png
     order: "3"
-    title: River Walk Bridge
+    title: Darling Harbour
     artist: Charlie Bunt
-    description: River Walk Bridge
+    description: Darling Harbour Sydney by Charlie Bunt
 
+ 
 
 
 
