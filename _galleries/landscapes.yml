@@ -27,7 +27,7 @@ arts:
     artist: Charlie Bunt
     description: Railway on the Monaro
 
-    - image: images/galleries/landscapes/TharwawWM.png
+ - image: images/galleries/landscapes/TharwawWM.png
     order: "5"
     title: Tharwa Bridge
     artist: Charlie Bunt
@@ -57,4 +57,4 @@ arts:
 
 
 
----
+
