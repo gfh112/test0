@@ -2,57 +2,57 @@
 name: Landscapes
 arts:
 # Column 1
-  - image: images/galleries/landscapes/riverwalk1V.png
+  - image: "images/galleries/landscapes/riverwalk1V.png"
     order: "1"
-    title: River Walk Oval
-    artist: Charlie Bunt
-    description: River Walk Oval
+    title: "River Walk Oval"
+    artist: "Charlie Bunt"
+    description: "River Walk Oval 2023"
 
-  - image: images/galleries/landscapes/riverwalk2V.png
+  - image: "images/galleries/landscapes/riverwalk2V.png"
     order: "2"
-    title: River Walk Main
-    artist: Charlie Bunt
-    description: River Walk Main
+    title: "River Walk Main"
+    artist: "Charlie Bunt"
+    description: "River Walk Main 2023"
 
-  - image: images/galleries/landscapes/riverwalk3V.png
+  - image: "images/galleries/landscapes/riverwalk3V.png"
     order: "3"
-    title: River Walk Bridge
-    artist: Charlie Bunt
-    description: River Walk Bridge
+    title: "River Walk Bridge"
+    artist: "Charlie Bunt"
+    description: "River Walk Bridge 2023"
 
 # Column 2
-  - image: images/galleries/landscapes/railwayH.png
+  - image: "images/galleries/landscapes/railwayH.png"
     order: "4"
-    title: Railway
-    artist: Charlie Bunt
-    description: Railway on the Monaro
+    title: "Cooma Railway"
+    artist: "Charlie Bunt"
+    description: "Cooma Railway 2023" 
 
- - image: images/galleries/landscapes/TharwawWM.png
+  - image: "images/galleries/landscapes/TharwaWM.png"
     order: "5"
-    title: Tharwa Bridge
-    artist: Charlie Bunt
-    description: Tharwa Bridge
+    title: "Tharwa Bridge"
+    artist: "Charlie Bunt"
+    description: "Tharwa Bridge 2024"
+
+  - image: "images/galleries/landscapes/darlingV.png"
+    order: "6"
+    title: "Darling Harbour"
+    artist: "Charlie Bunt"
+    description: "Darling Harbour Sydney 2010" 
+
 
 # Column 3
-  - image: images/galleries/landscapes/ladiesblank.png
-    order: "6"
-    title: Ladies
-    artist: Charlie Bunt
-    description: Ladies Toilet Block by Charlie Bunt
-
-  - image: images/galleries/landscapes/refill.png
+  - image: "images/galleries/landscapes/ladiesblank.png"
     order: "7"
-    title: REFILL
-    artist: Charlie Bunt
-    description: Refill Station by Charlie Bunt
+    title: "Ladies" 
+    artist: "Charlie Bunt"
+    description: "Ladies toilet block disused 2023" 
 
-  - image: images/galleries/landscapes/darlingV.png
+  - image: "images/galleries/landscapes/refill.png"
     order: "8"
-    title: Darling Harbour
-    artist: Charlie Bunt
-    description: Darling Harbour Sydney by Charlie Bunt
+    title: "REFILL"
+    artist: "Charlie Bunt"
+    description: "REFILL Station 2023"
 
- 
 
 
 
