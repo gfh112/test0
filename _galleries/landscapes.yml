@@ -53,6 +53,18 @@ arts:
     artist: "Charlie Bunt"
     description: "REFILL Station 2023"
 
+  - image: "images/galleries/landscapes/colorbridge.png"
+    order: "9"
+    title: "Tharwa Bridge Coloured"
+    artist: "Charlie Bunt"
+    description: "Thawa Bridge Coloured 2023"
+
+  - image: "images/galleries/landscapes/pool.png"
+    order: "10"
+    title: "POOL"
+    artist: "Charlie Bunt"
+    description: "Cooma Pool 2024"
+
 
 
 
