@@ -65,6 +65,14 @@ arts:
     artist: "Charlie Bunt"
     description: "Cooma Pool 2024"
 
+  - image: "images/galleries/landscapes/kuma.png"
+    order: "11"
+    title: "KUMA"
+    artist: "Charlie Bunt"
+    description: "Kuma Reserve 2023"
+    
+    
+
 
 
 
