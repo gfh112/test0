@@ -1,15 +1,15 @@
 # Site settings
-title: Charlie Bunt Portfolio
-email: buntcharlie@gmail.com
-author: Charlie Bunt
+title: Yvonne Chan Vocal Studio
+email: yvonnechan.music@gmail.com
+author: Yvonne Chan
 
 keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: portfolio site for digital motion and vector art
+description: Vocal studio
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://charliebunt.github.io/"
+  url: "https://gfh112.github.io/test0"
 
-header: images/logo.png
+header: images/Logo.png
 
 
 
