@@ -1,5 +1,5 @@
 ---
-layout: Contact
+layout: contact
 title: Contact
 permalink: "/contact/"
 --- 
