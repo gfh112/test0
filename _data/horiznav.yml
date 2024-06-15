@@ -1,48 +1,22 @@
-- title: "Illustration"
-  href: "/illustration/"
-
-- title: "Animation"
-  href: "/animation/"
-
-- title: "GIFS-et-Al"
-  href: "/gifs-et-al/"
-
-- title: "Landscapes"
-  href: "/landscapes/"
- 
-- title: "portraits"
+- title: "Learn Singing"
   subcategories:
-    - subtitle: "general"
-      subhref: "/portraits/"
+    - subtitle: "Classical"
+      subhref: "/classical/"
 
-    - subtitle: "self"
-      subhref: "/self-portraits/"
-  
-- title: "projects"
-  subcategories:
-    - subtitle: "acting"
-      subhref: "/projects/acting/"
-
-    - subtitle: "concept"
-      subhref: "/projects/concept/"
-
-    - subtitle: "music"
-      subhref: "/projects/music/"
-
-    - subtitle: "puppetry"
-      subhref: "/projects/puppetry/"
-
-    - subtitle: "sewing"
-      subhref: "/projects/sewing/"
-
-    - subtitle: "writing"
-      subhref: "/projects/writing/"
+    - subtitle: "Pop"
+      subhref: "/pop/"
+      
+    - subtitle: "Music Theatre"
+      subhref: "/music_theatre/"
+      
+- title: "Videos"
+  href: "/videos/"
    
-- title: "blog"
+- title: "Blog"
   href: "/blog/"
 
-- title: "about"
+- title: "About"
   href: "/about/"
   
-- title: "contact"
+- title: "Contact"
   href: "/contact/"
